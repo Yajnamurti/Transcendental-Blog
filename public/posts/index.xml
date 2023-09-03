@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Transcendental Blog</title>
+    <link>https://github.com/Yajnamurti/hugo-PaperMod.git/posts/</link>
+    <description>Recent content in Posts on Transcendental Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2023 10:05:15 +0530</lastBuildDate><atom:link href="https://github.com/Yajnamurti/hugo-PaperMod.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September 3rd 2023</title>
+      <link>https://github.com/Yajnamurti/hugo-PaperMod.git/posts/first/</link>
+      <pubDate>Sun, 27 Aug 2023 10:05:15 +0530</pubDate>
+      
+      <guid>https://github.com/Yajnamurti/hugo-PaperMod.git/posts/first/</guid>
+      <description>Welcome to my blog! First I would like to talk a little about the name of the Blog, Transcendental, what I mean for Transcendental Blog. After going through the meanings of Transcendental in different dictionaries I would like to tell what is the meanings of the word Transcendental used in this blog: A transcendental experience, event, object, or idea that is extremely special and that cannot be understood in ordinary ways.</description>
+    </item>
+    
+  </channel>
+</rss>
